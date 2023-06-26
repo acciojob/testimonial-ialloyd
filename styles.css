@@ -14,9 +14,9 @@
 	
 }
 
-.test p{
+.test .name{
 
 	text-align:right;
-
+	font-style:italic;
 }
 
