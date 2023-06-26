@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.testimonials{
+
+	background-color :yellow;
+	padding:30px;
+	
+}
+
+.test{
+
+	border:1px solid grey;
+	margin-bottom:25px;
+	box-sizing:border-box;
+	padding:15px;
+	
+}
+
+.test p{
+
+
+}
+
