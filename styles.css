@@ -11,13 +11,12 @@
 	border:1px solid rgb(222,222,222);
 	margin-bottom:25px;
 	padding:10px;
-	overflow:hidden;
 	
 }
 
 .test p{
 
-	float:right;
+	text-align:right;
 
 }
 
